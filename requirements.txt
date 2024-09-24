@@ -7,4 +7,5 @@ scikit-learn
 xgboost
 Flask
 imblearn
+gunicorn
 #-e .
