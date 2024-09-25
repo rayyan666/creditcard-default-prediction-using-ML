@@ -59,9 +59,18 @@ We trained several models, and after rigorous testing, XGBoost took the crown as
 
 These results speak volumes about our model’s ability to accurately predict defaulters!
 
+## 💻 Deployment
+
+This project has been successfully deployed! You can interact with the model through a web interface hosted on Render. Visit the deployed site here:
+
+[Live Demo on Render](https://creditcard-default-prediction-using-ml.onrender.com) 
+
 ## 🚀 Getting Started
 
 To get this project up and running on your local machine, clone the repository and install the required dependencies:
 
 ```bash
+git clone https://github.com/rayyan666/creditcard-default-prediction-using-ML.git
+cd creditcard-default-prediction-using-ML
 pip install -r requirements.txt
+python app.py
