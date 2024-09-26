@@ -5,7 +5,7 @@ seaborn
 matplotlib
 scikit-learn
 xgboost
-Flask
+flask
 imblearn
 gunicorn
 #-e .
