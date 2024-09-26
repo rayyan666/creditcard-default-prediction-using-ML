@@ -16,7 +16,7 @@ def get_requirements(file_path:str)->List[str]:
             requirements.remove(HYPEN_E_DOT)
     return requirements
 setup(   
-name='credit_default_project',
+name='credit_card_default_project',
 version='0.0.1',
 author='Rayyan',
 author_email='alphatrooper335@gmail.com',
