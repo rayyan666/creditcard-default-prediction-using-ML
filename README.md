@@ -10,6 +10,10 @@ Here's the workflow of the model
 
 ![alt text](<Blank diagram.png>)
 
+And here's the workflow of the User Interface
+
+![alt text](<Blank diagram (1).png>)
+
 ## 💡 Why This Matters
 
 Credit card defaults can lead to significant financial losses for banks and lenders. By predicting defaulters in advance, financial institutions can take proactive steps, like adjusting credit limits, reaching out to customers, or implementing tailored repayment plans.
