@@ -80,5 +80,5 @@ python app.py
 
  ## Documentation
 
-- [Low-Level Design (LLD) Document](https://drive.google.com/file/d/1d4KpxxPR00ST-GHYNpPv1KnTIgM9UHZZ/view?usp=sharing)
+- [Low-Level Design (LLD) Document](https://drive.google.com/file/d/1-WNVGfdnh6XQcTIKv439RUmVEtRx50TR/view?usp=sharing)
 - [High-Level Design (HLD) Document](https://drive.google.com/file/d/1fJ8R8qXCpjokonYyovBKzhmE73frIXJM/view?usp=sharing)
