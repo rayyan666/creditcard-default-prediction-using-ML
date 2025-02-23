@@ -76,8 +76,9 @@ git clone https://github.com/rayyan666/creditcard-default-prediction-using-ML.gi
 cd creditcard-default-prediction-using-ML
 pip install -r requirements.txt
 python app.py
+```
 
-## Documentation
+ ## Documentation
 
 - [Low-Level Design (LLD) Document](https://drive.google.com/file/d/1d4KpxxPR00ST-GHYNpPv1KnTIgM9UHZZ/view?usp=sharing)
 - [High-Level Design (HLD) Document](https://drive.google.com/file/d/1fJ8R8qXCpjokonYyovBKzhmE73frIXJM/view?usp=sharing)
